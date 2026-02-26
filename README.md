@@ -22,7 +22,7 @@ This project demonstrates strong understanding of:
 
 ## 🚀 Live Demo
 
-> 🔗 Add deployed link here (Vercel / Netlify)
+> 🔗 https://quizgame2349.ccbp.tech
 
 ---
 
